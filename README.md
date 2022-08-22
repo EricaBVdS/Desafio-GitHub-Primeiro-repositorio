@@ -1,7 +1,7 @@
 # Desafio GitHub criando o Primeiro repositorio 
 ### Desafio sobre Git/GitHub
 
-## Links
+## Links uteis
 
 - [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
